@@ -4,13 +4,13 @@ Repo used to store the Homebrew items that are installed on my Mac.
 
 ## To use
 
-sudo pip install cider
-git clone <repo> ~/.cider
-cider restore
+    sudo pip install cider
+    git clone <repo> ~/.cider
+    cider restore
 
 ## To update
 
-cider missing
+    cider missing
 
 ## Other docs
 
