@@ -1,0 +1,24 @@
+{
+    "formulas": [
+        "cmake",
+        "cscope",
+        "gdbm",
+        "gmp",
+        "gnutls",
+        "libevent",
+        "libgcrypt",
+        "libgpg-error",
+        "libtasn1",
+        "macvim",
+        "nettle",
+        "openssl",
+        "pcre",
+        "python",
+        "readline",
+        "sqlite",
+        "tmux",
+        "vim",
+        "weechat",
+        "zsh"
+    ]
+}
