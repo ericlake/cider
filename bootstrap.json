@@ -1,5 +1,6 @@
 {
     "formulas": [
+        "aspell",
         "cmake",
         "cscope",
         "gdbm",
@@ -9,6 +10,7 @@
         "libgcrypt",
         "libgpg-error",
         "libtasn1",
+        "lua",
         "macvim",
         "nettle",
         "openssl",
